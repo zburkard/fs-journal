@@ -2,32 +2,35 @@
 
 **1.** In the terminal, what is the command `cd` used for?
 
-cd is used to move up and down levels of the filesystem
 ```
+cd is used to move up and down levels of the filesystem
 
 ```
 
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
-```mkdir is used to create folders within the filesystem
+```
+mkdir is used to create folders within the filesystem
 
 ```
 
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-
+It is the container for all html elements and represents the root of the html document.
 ```
 
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
 ```
+HyperText Markup Language
 
 ```
 
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
-```Cascading Style Sheets
+```
+Cascading Style Sheets
 
 ```
 
@@ -38,7 +41,8 @@ cd is used to move up and down levels of the filesystem
  }
 ```
 <!-- enter you answer in the space below -->
-```Selector, Property, Value
+```
+wSelector, Property, Value
 
 ```
 
@@ -66,7 +70,6 @@ Body
 ```
 Puts items in a flex box and makes them easier to position with align items/justify content.
 ```
-
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
