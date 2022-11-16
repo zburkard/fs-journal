@@ -23,3 +23,14 @@ function init() {
 
 
 init()
+
+
+
+
+function mostCommon(str) {
+  for (let i = 0; i < str.length; i++) {
+    if (i == i) {
+      console.log(str[i])
+    }
+  }
+}
