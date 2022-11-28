@@ -34,6 +34,7 @@ static ListTemplate(spell){
 
 }
 
+ctrl + . to declare method
 
 
 
